@@ -1,0 +1,31 @@
+#watch {
+    font-family: sans-serif;
+    font-size: 60px;
+    text-shadow: 0px 0px 1px #333;
+    color: #fff;
+}
+
+.watch-container {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(12, 167, 206);
+    padding: 25px;
+    max-width: 350px;
+    text-align: center;
+    border-radius: 100px;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+.anime {
+    border: rgb(0, 0, 0) 2px solid;
+}
+
+#hours {
+    letter-spacing: 10px;
+    font-size: 20px;
+}
+
+#date {
+    letter-spacing: 10px;
+    font-size: 15px;
+}
